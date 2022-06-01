@@ -1,0 +1,21 @@
+[
+  {
+    "name":  "Summer Sun Ice Cream Pack",
+    "pieces":  "Pieces 5",
+    "minutesAway": "15 Minutes Away",
+    "originalPrice": 18,
+    "discountPrice": 12,
+    "isFavourite":  false,
+    "colorHex": "#FBEDD8"
+  }
+  ,
+  {
+    "name":  "Unknown Deal",
+    "pieces":  "Pieces 10",
+    "minutesAway": "30 Minutes Away",
+    "originalPrice": 24,
+    "discountPrice": 15,
+    "isFavourite":  true,
+    "colorHex": "#CFF5E7"
+  }
+]

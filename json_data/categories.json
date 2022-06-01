@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Steak",
+    "colorHex" : "0xffF9BDAD"
+  }
+,
+  {
+    "name": "Vegetables",
+    "colorHex" : "0xffFAD96D"
+  }
+  ,
+  {
+    "name": "Beverages",
+    "colorHex" : "0xffCCB8FF"
+  }
+,
+  {
+    "name": "Fish",
+    "colorHex" : "0xffB0EAFD"
+  }
+,
+  {
+    "name": "Juice",
+    "colorHex" : "0xffFF9DC2"
+  }
+]
